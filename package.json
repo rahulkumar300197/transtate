@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "async": "^2.6.0",
+    "csv": "^2.0.0",
+    "csv-parse": "^2.0.0",
+    "csv-parser": "^1.12.0",
+    "google-translate-api": "^2.3.0",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.0"
+  }
+}
